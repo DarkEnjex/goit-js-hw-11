@@ -212,16 +212,6 @@ section {
   }
 }
 
-/* .loader::after {
-  content: '';
-  box-sizing: border-box;
-  position: absolute;
-  left: 20px;
-  top: 31px;
-  border: 10px solid transparent;
-  border-right-color: #4e75ff;
-  transform: rotate(-40deg);
-} */
 
 .izi-toast {
   border-radius: 4px;
